@@ -17,8 +17,8 @@ Relative Resources
 Index
 ======
 + [Announcements](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/1. announcements/)
-+ [Import](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/2. import/))
-    + [Import SDK](#markdown-header-import-sdk)
++ [Import](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/2. import/)
+    + [Import SDK](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/2. import/#markdown-header-import-sdk)
     + [Update SDK](#markdown-header-update-sdk)
 + [Init](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/3. init/)
     + [Initial Beacon SDK](#markdown-header-initial-beacon-sdk)
@@ -36,8 +36,4 @@ Index
 * * *
 
 [id-contact]: mailto:michaelangelo@cht.com.tw
-[id-download-doc]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads/ "使用手冊下載"
-[id-download]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads  "專案下載"
-[id-download-fabric]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads/fabric.zip  "fabric.zip"
-[id-download-aar]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads/BeaconNotifyLite.aar  "BeaconNotifyLite.aar"
-[id-download-aarzip]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads/BeaconNotifyLite.zip  "BeaconNotifyLite.zip"
+
