@@ -1,12 +1,13 @@
-Welecome 中華電信研究院 Beacon 感知元件 使用手冊
+Welecome Beacon 感知元件 使用手冊
 ======
+本元件為 中華電信研究院 Beacon 技術研發團隊 開發製作
 若有任何問題歡迎請直接聯繫 **[技術窗口][id-contact]**
 * * *
 
 Index
 ======
-+ [Special Announcements](#markdown-header-special-announcements)
-+ [Relative Resources](#markdown-header-relative-resources)
++ [Announcements](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/announcements/)
++ [Relative Resources](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/#import-sample-project)
 + [Import Sample Project](#markdown-header-import-sample-project)
 + [Import SDK](#markdown-header-import-sdk)
 + [Update SDK](#markdown-header-update-sdk)
