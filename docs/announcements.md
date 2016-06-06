@@ -1,11 +1,11 @@
-�S�O�n��
+特別聲明
 ======
--   �����󬰨ϥ� The official Android IDE: Android Studio �s�@�C
--   ������̧C���Android������4.3.1�C
--   �����󰣤F�֤ߨϥΪ��M�󬰦ۦ�}�o�~�A�B�~�ϥΪ��M��Ҭ��}���M��A�ÿ��u Apache Licesen 2.0 �W�d�C
--   ������Ҵ��Ѥ��U����ơA�ȨѰѦҡA�}�o�̶��̷Ӷ}�o���ҹ�ڱ��p�ϥΥ\��C
--   ������ثe�ȨѤ��عq�H�Ψ�٦�ϥΡC
--   ������@�ʮɻݶ}���Ť��ûݦ������P��ݥ��x�s�u�{�ҡC
--   ������@�ʮɻݱN�����t�ά����]�t�w��ο��~��T�A�L�ӤH�p�K��ơA�åu�@����o�ϥΡA���t�ϥΩ�p�H�γ~�C
--   ���عq�H��s�|��}�o�̦]�ϥΥ�����ҳy�����l���A���t����d���Ӿ�ηl�����v�C
-���}�l�ϥΥ���������P�N�H�W�n���ƶ�
+-   本元件為使用 The official Android IDE: Android Studio 製作。
+-   本元件最低支持Android版本為4.3.1。
+-   本元件除了核心使用的套件為自行開發外，額外使用的套件皆為開源套件，並遵守 Apache Licesen 2.0 規範。
+-   本元件所提供之各項資料，僅供參考，開發者須依照開發環境實際情況使用功能。
+-   本元件目前僅供中華電信及其夥伴使用。
+-   本元件作動時需開啟藍牙並需有網路與後端平台連線認證。
+-   本元件作動時需將收集系統紀錄包含硬體及錯誤資訊，無個人私密資料，並只作為研發使用，不另使用於私人用途。
+-   中華電信研究院對開發者因使用本元件所造成之損失，不負任何責任承擔及損失賠償。
+※開始使用本元件視為同意以上聲明事項
