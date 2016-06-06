@@ -10,32 +10,29 @@ Relative Resources
 | 資源名稱 | 說明 | 備註 |
 |-|-|-|
 | 專案 | 專案位址 | [鍊結](http://bit.ly/BeaconDemoAS)
-| 元件 | BeaconNotify元件檔 | [下載][id-download-aar]|
 | fabric.zip | 元件必要用套件設定檔 | [下載][id-download-fabric] |
-| 測試程式 | 各客戶的測試程式 | [下載](http://bit.ly/BeaconDebugTool)
 
 * * *
 
 Index
 ======
-+ [Announcements](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/announcements/)
-+ [Relative Resources](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/#import-sample-project)
-+ [Import Sample Project](#markdown-header-import-sample-project)
-+ [Import SDK](#markdown-header-import-sdk)
-+ [Update SDK](#markdown-header-update-sdk)
-+ Control Beacon SDK
++ [Announcements](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/1. announcements/)
++ [Import](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/2. import/))
+    + [Import SDK](#markdown-header-import-sdk)
+    + [Update SDK](#markdown-header-update-sdk)
++ [Init](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/3. init/)
     + [Initial Beacon SDK](#markdown-header-initial-beacon-sdk)
-+ [Set Reference Value](#markdown-header-set-reference-value)
-+ Control Advertise Event
+    + [Set Reference Value](#markdown-header-set-reference-value)
++ [Receiver](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/4. receiver/)
     + [Set Advertise Event Reference Value](#markdown-header-set-advertise-event-reference-value)
     + [Control Advertise Event UI](#markdown-header-control-advertise-event-ui)
 + Get Event Content
     + [Get Custom Event Content](#markdown-header-get-custom-event-content)
     + [Get Custom Advertise Event Content](#markdown-header-get-custom-advertise-event-content)
     + [Get Add Favorite Event Content](#markdown-header-get-add-favorite-event-content)
-+ Get Sensed Beacon Content
++ [Sense](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/5. sense/)
     + [Get Sensed Beacon Array Content](#markdown-header-get-sensed-beacon-array-content)
-+ [Finally](#markdown-header-finally)
++ [Finally](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/finally/)
 * * *
 
 [id-contact]: mailto:michaelangelo@cht.com.tw
