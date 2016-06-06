@@ -5,55 +5,55 @@ CHTTL Beacon Notify Lite
 
 * * *
 
-###### ¥»±M®×¬°°w¹ï Android Studio ¶}µoÀô¹Ò¡A­Y¥HEclipse§@¬°¶}µoÀô¹Ò«h½Ğ¨ì[³o¸Ì][id-eclipse] ######
+###### æœ¬å°ˆæ¡ˆç‚ºé‡å° Android Studio é–‹ç™¼ç’°å¢ƒï¼Œè‹¥ä»¥Eclipseä½œç‚ºé–‹ç™¼ç’°å¢ƒå‰‡è«‹åˆ°[é€™è£¡][id-eclipse] ######
 * * *
 
-¯Á¤Ş
+ç´¢å¼•
 ------
-+ [¨Ï¥Î¤â¥U][id-apiDoc]
-+ [´ú¸Õ¤u¨ã](http://bit.ly/BeaconNotifyNewRelease)
-+ [¿ù»~¦^³ø][id-mantisBT]
-+ [¾ú¨Ó§ó·s][id-releaseNote]
++ [ä½¿ç”¨æ‰‹å†Š][id-apiDoc]
++ [æ¸¬è©¦å·¥å…·](http://bit.ly/BeaconNotifyNewRelease)
++ [éŒ¯èª¤å›å ±][id-mantisBT]
++ [æ­·ä¾†æ›´æ–°][id-releaseNote]
 * * *
 
-³Ì·s®ø®§
+æœ€æ–°æ¶ˆæ¯
 ------
-**[ª`·N!!] ¥»¦¸§ïª©`(2.18.x)`ÅÜ§ó¤F¤¸¥ó©I¥s¬[ºc¡A½Ğ°È¥²ÅÜ§ó±z­ì©lªº©I¥s¤è¦¡¨Ã°Ñ¦Ò¨Ï¥Î¤â¥U¤¤ªºªì©l¤Æ³¹¸`**  
+**[æ³¨æ„!!] æœ¬æ¬¡æ”¹ç‰ˆ`(2.18.x)`è®Šæ›´äº†å…ƒä»¶å‘¼å«æ¶æ§‹ï¼Œè«‹å‹™å¿…è®Šæ›´æ‚¨åŸå§‹çš„å‘¼å«æ–¹å¼ä¸¦åƒè€ƒä½¿ç”¨æ‰‹å†Šä¸­çš„åˆå§‹åŒ–ç« ç¯€**  
 ### Version: 2.18.06 ###
 ```
- 1. ·s¼W [App][Lib] Â²°TÅã¥Ü¼Ò¦¡
- 2. ·s¼W [App][Lib] ©w¦ì¨Æ¥ó¼Ò¦¡(¦³Ãö¨Æ¥ó©w¸q¤Î¾Ş§@½Ğ°Ñ¦Ò«eºİ½s¿è¥­¥x»¡©ú)
- 3. ­×¥¿ [Lib] ªì©l©I¥s¤¸¥ó®Ø¬[¬[ºc¡A¨Ï©I¥s¤¸¥ó§ó¬°¼u©Ê
- 4. ­×¥¿ [Lib] ¯B°ÊªwªwÅã¥Ü¼Ò¦¡¡A¨Ï¾ã­Ó¯B°Êªwªw§óÃ­©w¡B´£ª@®Ä¯à¤Î¬ü¤Æ¤¶­±
- 5. §ó·s [Lib] ©³¼h SBeacon ®Ö¤ß¤¸¥ó¤É¯Å¬° V2.2.2
+ 1. æ–°å¢ [App][Lib] ç°¡è¨Šé¡¯ç¤ºæ¨¡å¼
+ 2. æ–°å¢ [App][Lib] å®šä½äº‹ä»¶æ¨¡å¼(æœ‰é—œäº‹ä»¶å®šç¾©åŠæ“ä½œè«‹åƒè€ƒå‰ç«¯ç·¨è¼¯å¹³å°èªªæ˜)
+ 3. ä¿®æ­£ [Lib] åˆå§‹å‘¼å«å…ƒä»¶æ¡†æ¶æ¶æ§‹ï¼Œä½¿å‘¼å«å…ƒä»¶æ›´ç‚ºå½ˆæ€§
+ 4. ä¿®æ­£ [Lib] æµ®å‹•æ³¡æ³¡é¡¯ç¤ºæ¨¡å¼ï¼Œä½¿æ•´å€‹æµ®å‹•æ³¡æ³¡æ›´ç©©å®šã€ææ˜‡æ•ˆèƒ½åŠç¾åŒ–ä»‹é¢
+ 5. æ›´æ–° [Lib] åº•å±¤ SBeacon æ ¸å¿ƒå…ƒä»¶å‡ç´šç‚º V2.2.2
 ```
 * * *
 
-§Ö³t¨Ï¥Î
+å¿«é€Ÿä½¿ç”¨
 ------
-> [ª`·N!!] ¥»³¹¸`¥uª`­«©ó **§Ö³t¨Ï¥Î¾ã­Ó½d¨Ò±M®×º[¤¸¥ó** ¡A¤£«OÃÒSDK¬°³Ì·sª©¥»¡A¦]¦¹¤@©w­nÄ~Äò **[Update SDK](#markdown-header-update-sdk)**  
+> [æ³¨æ„!!] æœ¬ç« ç¯€åªæ³¨é‡æ–¼ **å¿«é€Ÿä½¿ç”¨æ•´å€‹ç¯„ä¾‹å°ˆæ¡ˆæš¨å…ƒä»¶** ï¼Œä¸ä¿è­‰SDKç‚ºæœ€æ–°ç‰ˆæœ¬ï¼Œå› æ­¤ä¸€å®šè¦ç¹¼çºŒ **[Update SDK](#markdown-header-update-sdk)**  
 
- 1. ½Ğ¦Ü **[Downloads][id-download]** ­¶­±¡AÂI¿ï `Download repository`¡A¤U¸ü«á¸ÑÀ£ÁY¬°¤@­Ó¸ê®Æ§¨(_¦WºÙ¦Û­q_)¦Ü§A²ßºDªº¤u§@Àô¹Ò(_work space_)¤¤¡C
- 2. ½Ğ¤U¸ü **[fabric.zip][id-download-fabric]** ÀÉ®×¡A±NÀ£ÁYÀÉ¤¤ªº `fabric.properties` ½Æ»s¨ì `BeaconNotifyApp\build.gradle` ¦P¥Ø¿ı¤U
- 3. ¥´¶} Android Studio IDE
- 4. ÂI¿ï "Open an existing Android Studio Project"
- 5. IDE ·|¸ß°İ "Select Modules to Include in Project Subset"¡AÂI¿ï `ok` §Y¥i¡C
- 6. IDE ¶}©l¸ü¤J±M®×¨Ã¥B¦Û°Ê Build ²Ä¤@¦¸
- 7. ½Ğ°O±o­n°Ñ¦Ò **¨Ï¥Î¤â¥U** ¤¤ªº [Initial Beacon SDK](https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/wiki/Home#markdown-header-initial-beacon-sdk) ³¹¸`, ¼g¤JÄİ©ó§A¦Û¤v±M®×ªº **License Key**  
+ 1. è«‹è‡³ **[Downloads][id-download]** é é¢ï¼Œé»é¸ `Download repository`ï¼Œä¸‹è¼‰å¾Œè§£å£“ç¸®ç‚ºä¸€å€‹è³‡æ–™å¤¾(_åç¨±è‡ªè¨‚_)è‡³ä½ ç¿’æ…£çš„å·¥ä½œç’°å¢ƒ(_work space_)ä¸­ã€‚
+ 2. è«‹ä¸‹è¼‰ **[fabric.zip][id-download-fabric]** æª”æ¡ˆï¼Œå°‡å£“ç¸®æª”ä¸­çš„ `fabric.properties` è¤‡è£½åˆ° `BeaconNotifyApp\build.gradle` åŒç›®éŒ„ä¸‹
+ 3. æ‰“é–‹ Android Studio IDE
+ 4. é»é¸ "Open an existing Android Studio Project"
+ 5. IDE æœƒè©¢å• "Select Modules to Include in Project Subset"ï¼Œé»é¸ `ok` å³å¯ã€‚
+ 6. IDE é–‹å§‹è¼‰å…¥å°ˆæ¡ˆä¸¦ä¸”è‡ªå‹• Build ç¬¬ä¸€æ¬¡
+ 7. è«‹è¨˜å¾—è¦åƒè€ƒ **ä½¿ç”¨æ‰‹å†Š** ä¸­çš„ [Initial Beacon SDK](https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/wiki/Home#markdown-header-initial-beacon-sdk) ç« ç¯€, å¯«å…¥å±¬æ–¼ä½ è‡ªå·±å°ˆæ¡ˆçš„ **License Key**  
 * * *
 
-¶×¤J¤¸¥ó±M®×
+åŒ¯å…¥å…ƒä»¶å°ˆæ¡ˆ
 ------
-> [ª`·N!!] ¥»³¹¸`¥uª`­«©ó **¶×¤J¤¸¥ó±M®×** ¡A¤£«OÃÒSDK¬°³Ì·sª©¥»¡A¦]¦¹¤@©w­nÄ~Äò **[Update SDK](#markdown-header-update-sdk)**  
+> [æ³¨æ„!!] æœ¬ç« ç¯€åªæ³¨é‡æ–¼ **åŒ¯å…¥å…ƒä»¶å°ˆæ¡ˆ** ï¼Œä¸ä¿è­‰SDKç‚ºæœ€æ–°ç‰ˆæœ¬ï¼Œå› æ­¤ä¸€å®šè¦ç¹¼çºŒ **[Update SDK](#markdown-header-update-sdk)**  
 
- 1. ½Ğ¤U¸ü **[BeaconNotifyLite.zip][id-download-aarzip]** ÀÉ®×¡A¡A¤U¸ü«á¸ÑÀ£ÁY¬° **BeaconNotifyLite** ¸ê®Æ§¨
- 2. ±N¦¹¸ê®Æ§¨½Æ»s¨ì **§Aªºproject** ¥Ø¿ı¤U
- 3. ½Ğ¤U¸ü **[fabric.zip][id-download-fabric]** ÀÉ®×¡A±NÀ£ÁYÀÉ¤¤ªº `fabric.properties` ½Æ»s¨ì `app\build.gradle` ¦P¥Ø¿ı¤U 
- 4. ¥´¶} *project\setting.gradle*ÀÉ®×¡A©ó³Ì¤U¤è·s¼W¡G
+ 1. è«‹ä¸‹è¼‰ **[BeaconNotifyLite.zip][id-download-aarzip]** æª”æ¡ˆï¼Œï¼Œä¸‹è¼‰å¾Œè§£å£“ç¸®ç‚º **BeaconNotifyLite** è³‡æ–™å¤¾
+ 2. å°‡æ­¤è³‡æ–™å¤¾è¤‡è£½åˆ° **ä½ çš„project** ç›®éŒ„ä¸‹
+ 3. è«‹ä¸‹è¼‰ **[fabric.zip][id-download-fabric]** æª”æ¡ˆï¼Œå°‡å£“ç¸®æª”ä¸­çš„ `fabric.properties` è¤‡è£½åˆ° `app\build.gradle` åŒç›®éŒ„ä¸‹ 
+ 4. æ‰“é–‹ *project\setting.gradle*æª”æ¡ˆï¼Œæ–¼æœ€ä¸‹æ–¹æ–°å¢ï¼š
 
          include ':BeaconNotifyLite'
 
- 5. ©ó *app\build.gradle* ¤¤¡A·s¼W¦p¤U¥N½X¡G
+ 5. æ–¼ *app\build.gradle* ä¸­ï¼Œæ–°å¢å¦‚ä¸‹ä»£ç¢¼ï¼š
 
          buildscript {
              repositories {
@@ -92,33 +92,33 @@ CHTTL Beacon Notify Lite
              compile project(':BeaconNotifyLite')
          }
 
- 6. °õ¦æ `Make Project`
+ 6. åŸ·è¡Œ `Make Project`
 * * *
 
-§ó·s¤¸¥ó
+æ›´æ–°å…ƒä»¶
 ------
- 1. ½Ğ¤U¸ü **[BeaconNotifyLite.aar][id-download-aar]** ÀÉ®×¡A¨ÃÂĞ»\ `BeaconNotifyLite` ±M®×¤¤ªº `BeaconNotifyLite.aar` ÀÉ
- 2. ©ó `Androdi Studio` ¤¤ÂI¿ï `Build` -> `Clean Build`¡AÅı¨t²Î­«·s²£¥Í¤@¥÷¤¸¥ó°Ñ¦Ò¸ê·½  
+ 1. è«‹ä¸‹è¼‰ **[BeaconNotifyLite.aar][id-download-aar]** æª”æ¡ˆï¼Œä¸¦è¦†è“‹ `BeaconNotifyLite` å°ˆæ¡ˆä¸­çš„ `BeaconNotifyLite.aar` æª”
+ 2. æ–¼ `Androdi Studio` ä¸­é»é¸ `Build` -> `Clean Build`ï¼Œè®“ç³»çµ±é‡æ–°ç”¢ç”Ÿä¸€ä»½å…ƒä»¶åƒè€ƒè³‡æº  
 * * *
 
-Â²©ö¨Ï¥Î¤¸¥ó
+ç°¡æ˜“ä½¿ç”¨å…ƒä»¶
 ------
- 1. ½Ğ°È¥²¥ı¾\Åª¹L [¨Ï¥Î¤â¥U[id-apiDoc]
- 2. ¤¸¥óªº©I¥s½Ğ°Ñ¦Ò [³o¸Ì]()
- 2. Receiver µù¥U½d¨Ò½Ğ°Ñ¦Ò [BeaconNotifyApp/AndroidManifest.xml](https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/src/f36b509952b11a5e9fbc0cc0746a190652573bdf/BeaconNotifyApp/src/main/AndroidManifest.xml?at=master&fileviewer=file-view-default)¤¤ªº `receiver`
- 3. Receiver ¨Ï¥Î½d¨Ò½Ğ°Ñ¦Ò [BeaconNotifyApp/../Receiver](https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/src/f36b509952b11a5e9fbc0cc0746a190652573bdf/BeaconNotifyApp/src/main/java/com/cht/beacon/notify/App/Receiver/?at=master) ¤UªºÀÉ®×
+ 1. è«‹å‹™å¿…å…ˆé–±è®€é [ä½¿ç”¨æ‰‹å†Š[id-apiDoc]
+ 2. å…ƒä»¶çš„å‘¼å«è«‹åƒè€ƒ [é€™è£¡]()
+ 2. Receiver è¨»å†Šç¯„ä¾‹è«‹åƒè€ƒ [BeaconNotifyApp/AndroidManifest.xml](https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/src/f36b509952b11a5e9fbc0cc0746a190652573bdf/BeaconNotifyApp/src/main/AndroidManifest.xml?at=master&fileviewer=file-view-default)ä¸­çš„ `receiver`
+ 3. Receiver ä½¿ç”¨ç¯„ä¾‹è«‹åƒè€ƒ [BeaconNotifyApp/../Receiver](https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/src/f36b509952b11a5e9fbc0cc0746a190652573bdf/BeaconNotifyApp/src/main/java/com/cht/beacon/notify/App/Receiver/?at=master) ä¸‹çš„æª”æ¡ˆ
 * * *
 
 Contact
 ------
-+ ¤¤µØ¹q«H¬ã¨s°|¶×¬y©Ò [MichaelAngelo][id-contact], Skype: ktasl.li
++ ä¸­è¯é›»ä¿¡ç ”ç©¶é™¢åŒ¯æµæ‰€ [MichaelAngelo][id-contact], Skype: ktasl.li
 * * *
 
- [¦^¥Ø¿ı](#markdown-header-index)
+ [å›ç›®éŒ„](#markdown-header-index)
 * * *
 
 [id-eclipse]: https://bitbucket.org/beacondemoteam/ec-beaconnotifydemo/src "(EC)BeaconNotifyDemo"
-[id-download]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads  "±M®×¤U¸ü"
+[id-download]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads  "å°ˆæ¡ˆä¸‹è¼‰"
 [id-download-fabric]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads/fabric.zip  "fabric.zip"
 [id-download-aar]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads/BeaconNotifyLite.aar  "BeaconNotifyLite.aar"
 [id-download-aarzip]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads/BeaconNotifyLite.zip  "BeaconNotifyLite.zip"
