@@ -1,6 +1,6 @@
 
-�̫�
+最後
 
-���z�ϥδr�֡I
+祝您使用愉快！
 
-���عq�H��s�| Beacon �޳N��o�ζ� �q�W
+中華電信研究院 Beacon 技術研發團隊 敬上

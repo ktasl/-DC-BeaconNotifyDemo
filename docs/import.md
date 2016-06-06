@@ -1,53 +1,53 @@
 
 Import Sample Project
 ======
-> [ª`·N!!] ¥»³¹¸`¥uª`­«©ó **¶×¤J½d¨Ò±M®×** ¡A¤£«OÃÒSDK¬°³Ì·sª©¥»¡A¦]¦¹¤@©w­nÄ~Äò **[Update SDK](#markdown-header-update-sdk)**  
+> [æ³¨æ„!!] æœ¬ç« ç¯€åªæ³¨é‡æ–¼ **åŒ¯å…¥ç¯„ä¾‹å°ˆæ¡ˆ** ï¼Œä¸ä¿è­‰SDKç‚ºæœ€æ–°ç‰ˆæœ¬ï¼Œå› æ­¤ä¸€å®šè¦ç¹¼çºŒ **[Update SDK](#markdown-header-update-sdk)**  
 ``` 
- *¦pªG§A¬O²Ä¤@¦¸¶}µo Android À³¥Îµ{¦¡¡A«ØÄ³§A¥ı¤F¸Ñ¦p¦ó¶}µo Android À³¥Îµ{¦¡«á¦A¨Ó¨Ï¥Î¤¸¥ó* 
+ *å¦‚æœä½ æ˜¯ç¬¬ä¸€æ¬¡é–‹ç™¼ Android æ‡‰ç”¨ç¨‹å¼ï¼Œå»ºè­°ä½ å…ˆäº†è§£å¦‚ä½•é–‹ç™¼ Android æ‡‰ç”¨ç¨‹å¼å¾Œå†ä¾†ä½¿ç”¨å…ƒä»¶* 
 ```
-¥»¤¸¥ó¨Ï¥Î Android Studio §@¬°¶}µo¤u¨ã(IDE)¡A¦]¦¹«ØÄ³¨Ï¥Î Android Studio §@¬°¶}µo¤u¨ã³Ì¬°§Ö³t¡C
+æœ¬å…ƒä»¶ä½¿ç”¨ Android Studio ä½œç‚ºé–‹ç™¼å·¥å…·(IDE)ï¼Œå› æ­¤å»ºè­°ä½¿ç”¨ Android Studio ä½œç‚ºé–‹ç™¼å·¥å…·æœ€ç‚ºå¿«é€Ÿã€‚
 
-> Android Studioªº¦w¸Ë±Ğ¾Ç©x¤èºô¯¸¤W¦³³\¦h¸ê·½¡A½Ğ¦Û¦æ°Ñ¦Ò([Link](http://developer.android.com/intl/zh-tw/sdk/index.html))  
+> Android Studioçš„å®‰è£æ•™å­¸å®˜æ–¹ç¶²ç«™ä¸Šæœ‰è¨±å¤šè³‡æºï¼Œè«‹è‡ªè¡Œåƒè€ƒ([Link](http://developer.android.com/intl/zh-tw/sdk/index.html))  
 
 ### Android Studio
- 1. ½Ğ¦Ü **[Downloads][id-download]** ­¶­±¡AÂI¿ï `Download repository`¡A¤U¸ü«á¸ÑÀ£ÁY¬°¤@­Ó¸ê®Æ§¨(_¦WºÙ¦Û­q_)¦Ü§A²ßºDªº¤u§@Àô¹Ò(_work space_)¤¤¡C
- 2. ½Ğ¤U¸ü **[fabric.zip][id-download-fabric]** ÀÉ®×¡A±NÀ£ÁYÀÉ¤¤ªº `fabric.properties` ½Æ»s¨ì `BeaconNotifyApp\build.gradle` ¦P¥Ø¿ı¤U
- 3. ¥´¶} Android Studio IDE
- 4. ÂI¿ï "Open an existing Android Studio Project"
- 5. IDE ·|¸ß°İ "Select Modules to Include in Project Subset"¡AÂI¿ï `ok` §Y¥i¡C
- 6. IDE ¶}©l¸ü¤J±M®×¨Ã¥B¦Û°Ê Build ²Ä¤@¦¸
- 7. ½Ğ°O±o­n°Ñ¦Ò API¤å¥ó¤¤ªº Initial Beacon SDK ³¹¸`, ¼g¤JÄİ©ó§A¦Û¤v±M®×ªº License Key
+ 1. è«‹è‡³ **[Downloads][id-download]** é é¢ï¼Œé»é¸ `Download repository`ï¼Œä¸‹è¼‰å¾Œè§£å£“ç¸®ç‚ºä¸€å€‹è³‡æ–™å¤¾(_åç¨±è‡ªè¨‚_)è‡³ä½ ç¿’æ…£çš„å·¥ä½œç’°å¢ƒ(_work space_)ä¸­ã€‚
+ 2. è«‹ä¸‹è¼‰ **[fabric.zip][id-download-fabric]** æª”æ¡ˆï¼Œå°‡å£“ç¸®æª”ä¸­çš„ `fabric.properties` è¤‡è£½åˆ° `BeaconNotifyApp\build.gradle` åŒç›®éŒ„ä¸‹
+ 3. æ‰“é–‹ Android Studio IDE
+ 4. é»é¸ "Open an existing Android Studio Project"
+ 5. IDE æœƒè©¢å• "Select Modules to Include in Project Subset"ï¼Œé»é¸ `ok` å³å¯ã€‚
+ 6. IDE é–‹å§‹è¼‰å…¥å°ˆæ¡ˆä¸¦ä¸”è‡ªå‹• Build ç¬¬ä¸€æ¬¡
+ 7. è«‹è¨˜å¾—è¦åƒè€ƒ APIæ–‡ä»¶ä¸­çš„ Initial Beacon SDK ç« ç¯€, å¯«å…¥å±¬æ–¼ä½ è‡ªå·±å°ˆæ¡ˆçš„ License Key
 
 ### Eclipse
 
-> ¥»»¡©ú¨Ì¾Ú Marsª©¥»»¡©ú¡A¦Ó¤£¦PªºEclipseª©¥»³]©w¤W·|¦³©Ò¤£¦P¡A½Ğ¦Û¦æ°Ñ¦Òºô¸ô¸ê®Æ
+> æœ¬èªªæ˜ä¾æ“š Marsç‰ˆæœ¬èªªæ˜ï¼Œè€Œä¸åŒçš„Eclipseç‰ˆæœ¬è¨­å®šä¸Šæœƒæœ‰æ‰€ä¸åŒï¼Œè«‹è‡ªè¡Œåƒè€ƒç¶²è·¯è³‡æ–™
   
- 1. ½Ğ¦Ü **Eclipse ±M®×¤¤ªº[Downloads][id-download-ec]** ­¶­±¡AÂI¿ï `Download repository`¡A¤U¸ü«á¸ÑÀ£ÁY¬°¤@­Ó¸ê®Æ§¨(_¦WºÙ¦Û­q_)¦Ü§A²ßºDªº¤u§@Àô¹Ò(_work space_)¤¤¡C
- 2. ¶}±Ò Eclipse IDE
- 3. ¿ï¾Ü `File` ¡÷ `Import` ¡÷ `Android` ¡÷ `Existing Android Code Into Workspace` ¡÷ `Next`
- 4. ¿ï¾Ü ­è­è¸ê®Æ§¨¤¤ªº **(Eclipse)BeaconNotifyLite** ¸ê®Æ§¨ ¡÷ `Finish`
- 5. ¥»¤¸¥ó¦³¥Î¨ì **android.support.v7**¤¤ªº **appcompat** , **cardview** , **recyclerview** , ½Ğ¦Û¦æ¤Wºô¬d¸ß¦p¦ó¶×¤J¸ê·½
- 5. ­«½Æ¨BÆJ2. ±N **(Eclipse)BeaconNotifyApp** ±M®×¸ê®Æ§¨¤]¶×¤J¨ì Eclipse ¤¤
- 6. ÀË¬d **(Eclipse)BeaconNotifyApp** ªº±M®×³]©w¡A¬İ¬O§_¦³¦¨¥\»P **(Eclipse)BeaconNotifyLite** ±M®×¬Û¨Ì, ­YµL«h½Ğ±N©¼¦¹¬Û¨Ì  
- 7. Eclipse ©|¶·¦w¸Ë fabric®M¥ó¤Î§ó§ïµù¥UÀÉ¡A®e§Ú«áÄò¦A°µ¤å¥ó§ó·s
+ 1. è«‹è‡³ **Eclipse å°ˆæ¡ˆä¸­çš„[Downloads][id-download-ec]** é é¢ï¼Œé»é¸ `Download repository`ï¼Œä¸‹è¼‰å¾Œè§£å£“ç¸®ç‚ºä¸€å€‹è³‡æ–™å¤¾(_åç¨±è‡ªè¨‚_)è‡³ä½ ç¿’æ…£çš„å·¥ä½œç’°å¢ƒ(_work space_)ä¸­ã€‚
+ 2. é–‹å•Ÿ Eclipse IDE
+ 3. é¸æ“‡ `File` â†’ `Import` â†’ `Android` â†’ `Existing Android Code Into Workspace` â†’ `Next`
+ 4. é¸æ“‡ å‰›å‰›è³‡æ–™å¤¾ä¸­çš„ **(Eclipse)BeaconNotifyLite** è³‡æ–™å¤¾ â†’ `Finish`
+ 5. æœ¬å…ƒä»¶æœ‰ç”¨åˆ° **android.support.v7**ä¸­çš„ **appcompat** , **cardview** , **recyclerview** , è«‹è‡ªè¡Œä¸Šç¶²æŸ¥è©¢å¦‚ä½•åŒ¯å…¥è³‡æº
+ 5. é‡è¤‡æ­¥é©Ÿ2. å°‡ **(Eclipse)BeaconNotifyApp** å°ˆæ¡ˆè³‡æ–™å¤¾ä¹ŸåŒ¯å…¥åˆ° Eclipse ä¸­
+ 6. æª¢æŸ¥ **(Eclipse)BeaconNotifyApp** çš„å°ˆæ¡ˆè¨­å®šï¼Œçœ‹æ˜¯å¦æœ‰æˆåŠŸèˆ‡ **(Eclipse)BeaconNotifyLite** å°ˆæ¡ˆç›¸ä¾, è‹¥ç„¡å‰‡è«‹å°‡å½¼æ­¤ç›¸ä¾  
+ 7. Eclipse å°šé ˆå®‰è£ fabricå¥—ä»¶åŠæ›´æ”¹è¨»å†Šæª”ï¼Œå®¹æˆ‘å¾ŒçºŒå†åšæ–‡ä»¶æ›´æ–°
 
- [¦^¥Ø¿ı](#markdown-header-index)
+ [å›ç›®éŒ„](#markdown-header-index)
 * * *
 
 Import SDK
 ======
-¦¹³¹¸`¤£¦P©ó[Import Sample Project](#markdown-header-import-sample-project)¦Ó¬O¤¶²Ğ¦p¦ó±N SDK ¶×¤J¨ì **§AªºÀ³¥Îµ{¦¡±M®×** ¤¤
-> [ª`·N!!] ¥»³¹¸`¥uª`­«©ó **¶×¤JSDK** ¡A¤£«OÃÒSDK¬°³Ì·sª©¥»¡A¦]¦¹¤@©w­nÄ~Äò **[Update SDK](#markdown-header-update-sdk)**
+æ­¤ç« ç¯€ä¸åŒæ–¼[Import Sample Project](#markdown-header-import-sample-project)è€Œæ˜¯ä»‹ç´¹å¦‚ä½•å°‡ SDK åŒ¯å…¥åˆ° **ä½ çš„æ‡‰ç”¨ç¨‹å¼å°ˆæ¡ˆ** ä¸­
+> [æ³¨æ„!!] æœ¬ç« ç¯€åªæ³¨é‡æ–¼ **åŒ¯å…¥SDK** ï¼Œä¸ä¿è­‰SDKç‚ºæœ€æ–°ç‰ˆæœ¬ï¼Œå› æ­¤ä¸€å®šè¦ç¹¼çºŒ **[Update SDK](#markdown-header-update-sdk)**
 
 ### Android Studio
- 1. ½Ğ¤U¸ü **[BeaconNotifyLite.zip][id-download-aarzip]** ÀÉ®×¡A¡A¤U¸ü«á¸ÑÀ£ÁY¬° **BeaconNotifyLite** ¸ê®Æ§¨
- 2. ±N¦¹¸ê®Æ§¨½Æ»s¨ì **§Aªºproject** ¥Ø¿ı¤U
- 3. ½Ğ¤U¸ü **[fabric.zip][id-download-fabric]** ÀÉ®×¡A±NÀ£ÁYÀÉ¤¤ªº `fabric.properties` ½Æ»s¨ì `app\build.gradle` ¦P¥Ø¿ı¤U 
- 4. ¥´¶} *project\setting.gradle*ÀÉ®×¡A©ó³Ì¤U¤è·s¼W¡G
+ 1. è«‹ä¸‹è¼‰ **[BeaconNotifyLite.zip][id-download-aarzip]** æª”æ¡ˆï¼Œï¼Œä¸‹è¼‰å¾Œè§£å£“ç¸®ç‚º **BeaconNotifyLite** è³‡æ–™å¤¾
+ 2. å°‡æ­¤è³‡æ–™å¤¾è¤‡è£½åˆ° **ä½ çš„project** ç›®éŒ„ä¸‹
+ 3. è«‹ä¸‹è¼‰ **[fabric.zip][id-download-fabric]** æª”æ¡ˆï¼Œå°‡å£“ç¸®æª”ä¸­çš„ `fabric.properties` è¤‡è£½åˆ° `app\build.gradle` åŒç›®éŒ„ä¸‹ 
+ 4. æ‰“é–‹ *project\setting.gradle*æª”æ¡ˆï¼Œæ–¼æœ€ä¸‹æ–¹æ–°å¢ï¼š
 
          include ':BeaconNotifyLite'
 
- 5. ©ó *app\build.gradle* ¤¤¡A·s¼W¦p¤U¥N½X¡G
+ 5. æ–¼ *app\build.gradle* ä¸­ï¼Œæ–°å¢å¦‚ä¸‹ä»£ç¢¼ï¼š
 
          buildscript {
              repositories {
@@ -84,24 +84,24 @@ Import SDK
              compile 'com.google.code.gson:gson:2.6.2'
          }
 
- 6. °õ¦æ `Make Project`
+ 6. åŸ·è¡Œ `Make Project`
 
 ### Eclipse
-¦]¬° Eclipse ³]©w«D±`ªº½ÆÂø¡A¦]¦¹¥¼¨Ó¦A§Ë
+å› ç‚º Eclipse è¨­å®šéå¸¸çš„è¤‡é›œï¼Œå› æ­¤æœªä¾†å†å¼„
 
- [¦^¥Ø¿ı](#markdown-header-index)
+ [å›ç›®éŒ„](#markdown-header-index)
 * * *
 
 Update SDK
 ======
-¦¹³¹¸`¥D­n¬O»¡©ú¦p¦ó§ó·s Beacon Notify SDK
-> BeaconNotifyLite.aar ±N·|¸òµÛ§ó·s¨Ã¥B«O«ù©ó³Ì·sªºª©¥»
+æ­¤ç« ç¯€ä¸»è¦æ˜¯èªªæ˜å¦‚ä½•æ›´æ–° Beacon Notify SDK
+> BeaconNotifyLite.aar å°‡æœƒè·Ÿè‘—æ›´æ–°ä¸¦ä¸”ä¿æŒæ–¼æœ€æ–°çš„ç‰ˆæœ¬
 
 ### Android Studio
- 1. ½Ğ¤U¸ü **[BeaconNotifyLite.aar][id-download-aar]** ÀÉ®×¡A¨ÃÂĞ»\ `BeaconNotifyLite` ±M®×¤¤ªº `BeaconNotifyLite.aar` ÀÉ
- 2. ÂI¿ï `Build` ¡÷ `Clean Build`¡AÅı¨t²Î­«·s²£¥Í¤@¥÷¤¸¥ó°Ñ¦Ò¸ê·½
+ 1. è«‹ä¸‹è¼‰ **[BeaconNotifyLite.aar][id-download-aar]** æª”æ¡ˆï¼Œä¸¦è¦†è“‹ `BeaconNotifyLite` å°ˆæ¡ˆä¸­çš„ `BeaconNotifyLite.aar` æª”
+ 2. é»é¸ `Build` â†’ `Clean Build`ï¼Œè®“ç³»çµ±é‡æ–°ç”¢ç”Ÿä¸€ä»½å…ƒä»¶åƒè€ƒè³‡æº
 
 ### Eclipse
-¦]¬° Eclipse ³]©w«D±`ªº½ÆÂø¡A¦]¦¹¥¼¨Ó¦A§Ë
+å› ç‚º Eclipse è¨­å®šéå¸¸çš„è¤‡é›œï¼Œå› æ­¤æœªä¾†å†å¼„
 
- [¦^¥Ø¿ı](#markdown-header-index)
+ [å›ç›®éŒ„](#markdown-header-index)
