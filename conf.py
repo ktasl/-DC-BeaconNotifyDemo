@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# Django Kong documentation build configuration file, created by
-# sphinx-quickstart on Wed Nov 18 09:17:59 2009.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
@@ -22,13 +20,14 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.intersphinx']
+#extensions = ['sphinx.ext.autodoc']
+extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
 # The suffix of source filenames.
-source_suffix = '.rst'
+source_suffix = '.md'
 
 # The encoding of source files.
 #source_encoding = 'utf-8'
@@ -158,7 +157,7 @@ html_static_path = ['_static']
 #html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'DjangoKongdoc'
+#htmlhelp_basename = 'DjangoKongdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -171,10 +170,10 @@ htmlhelp_basename = 'DjangoKongdoc'
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
-latex_documents = [
-  ('index', 'DjangoKong.tex', u'Django Kong Documentation',
-   u'Eric Holscher', 'manual'),
-]
+#latex_documents = [
+#  ('index', 'DjangoKong.tex', u'Django Kong Documentation',
+#   u'Eric Holscher', 'manual'),
+#]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
