@@ -10,9 +10,7 @@ Relative Resources
 | 資源名稱 | 說明 | 備註 |
 |-|-|-|
 | 專案 | 專案位址 | [鍊結](http://bit.ly/BeaconDemoAS)
-| 元件 | BeaconNotify元件檔 | [下載][id-download-aar]|
 | fabric.zip | 元件必要用套件設定檔 | [下載][id-download-fabric] |
-| 測試程式 | 各客戶的測試程式 | [下載](http://bit.ly/BeaconDebugTool)
 
 * * *
 
