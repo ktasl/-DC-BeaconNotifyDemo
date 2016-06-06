@@ -1,12 +1,19 @@
-Welcome to Django Kong's documentation!
+Welcome to Beacon Notify Demo documentation!
 =======================================
 
-A simple example
------------------
+這份文件是 中華電信研究院 Beacon Notify 元件的 使用手冊。
 
-You can see a `basic version <http://golem.ericholscher.com/kong/>`_ running for my personal site. It is super barebones, but it should give you an idea of what exactly is possible.
-
-Tests are written using  `Twill <http://twill.idyll.org/commands.html>`_, which allows for easy functional testing of web apps.
+最新消息
+-------------
+**[注意!!] 本次改版`(2.18.x)`變更了元件呼叫架構，請務必變更您原始的呼叫方式並參考使用手冊中的初始化章節**  
+### Version: 2.18.06 ###
+```
+ 1. 新增 [App][Lib] 簡訊顯示模式
+ 2. 新增 [App][Lib] 定位事件模式(有關事件定義及操作請參考前端編輯平台說明)
+ 3. 修正 [Lib] 初始呼叫元件框架架構，使呼叫元件更為彈性
+ 4. 修正 [Lib] 浮動泡泡顯示模式，使整個浮動泡泡更穩定、提昇效能及美化介面
+ 5. 更新 [Lib] 底層 SBeacon 核心元件升級為 V2.2.2
+```
 
 Get the code
 -------------
