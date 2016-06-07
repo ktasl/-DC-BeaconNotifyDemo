@@ -11,6 +11,7 @@ Relative Resources
 |-|-|-|
 | 專案 | 專案位址 | [鍊結](http://bit.ly/BeaconDemoAS)
 | fabric.zip | 元件必要用套件設定檔 | [下載][id-download-fabric] |
+
 * * *
 
 [id-contact]: mailto:michaelangelo@cht.com.tw
