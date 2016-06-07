@@ -14,26 +14,4 @@ Relative Resources
 
 * * *
 
-Index
-======
-+ [Announcements](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/1. announcements/)
-+ [Import](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/2. import/)
-    + [Import SDK](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/2. import/#markdown-header-import-sdk)
-    + [Update SDK](#markdown-header-update-sdk)
-+ [Init](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/3. init/)
-    + [Initial Beacon SDK](#markdown-header-initial-beacon-sdk)
-    + [Set Reference Value](#markdown-header-set-reference-value)
-+ [Receiver](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/4. receiver/)
-    + [Set Advertise Event Reference Value](#markdown-header-set-advertise-event-reference-value)
-    + [Control Advertise Event UI](#markdown-header-control-advertise-event-ui)
-+ Get Event Content
-    + [Get Custom Event Content](#markdown-header-get-custom-event-content)
-    + [Get Custom Advertise Event Content](#markdown-header-get-custom-advertise-event-content)
-    + [Get Add Favorite Event Content](#markdown-header-get-add-favorite-event-content)
-+ [Sense](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/5. sense/)
-    + [Get Sensed Beacon Array Content](#markdown-header-get-sensed-beacon-array-content)
-+ [Finally](http://-dc-beaconnotifydemo.readthedocs.io/en/latest/finally/)
-* * *
-
 [id-contact]: mailto:michaelangelo@cht.com.tw
-
