@@ -15,3 +15,4 @@ Relative Resources
 * * *
 
 [id-contact]: mailto:michaelangelo@cht.com.tw
+[id-download-fabric]: https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/downloads/fabric.zip
