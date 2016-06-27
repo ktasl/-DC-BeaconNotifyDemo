@@ -1,0 +1,63 @@
+初始化 Beacon SDK
+======
+此章節將介紹如何初始 Beacon SDK
+
+### Simple Init
+
+>這種Init方式適合給不需要UI顯示訊息的開發者 
+
+```
+    BeaconNotifyLib sBeaconNotifyLib = 
+        BeaconNotifyLib.with(Context, APPLICATION_ID, LICENSE_KEY)
+            .init();
+```
+
+| 變數名稱 | 說明 | 備註 |
+|-|-|-|
+| APPLICATION_ID| App Id | 需與 build.gradle 中寫的相同
+| LICENSE_KEY | 驗證碼 | 符合此專案用的驗證碼，如要申請請與窗口聯絡 |  
+
+* * *
+ 
+### Detail Init
+
+>這種Init方式適合給需要UI顯示訊息的開發者 
+
+```
+    BeaconNotifyLib sBeaconNotifyLib = 
+        BeaconNotifyLib.with(Context, APPLICATION_ID, LICENSE_KEY)
+            .setUserID(USER_ID)
+            .setBeaconScanPeriod(5000, 5000, 5000, 300000)   
+            .setOutcomeMode(BeaconNotifyLib.MODE_BUBBLE_CARD)
+            .setBubbleIconResID(R.drawable.ic_launcher_yogo)
+            .setDefaultAdvertiseBannerImgResID(R.drawable.ic_dm_coupon_default)
+            .setDMCardTitleResID(R.string.str_card_dm_title_yogo)
+            .setDefaultAdvertiseIconImgResID(R.drawable.ic_dm_icon_default)
+            .init();
+```
+
+
+| 函式名稱 | 說明 | 備註 |
+|-|-|-|
+| setUserID()| 設定使用者ID | 使用者ID主要使用於一些紀錄中
+| setBeaconScanPeriod()| 設定掃描頻率 | 手動設定Beacon硬體掃描頻率
+| setOutcomeMode() | 設定顯示模式 | 顯示模式請參考下方說明 |  
+| setBubbleIconResID() | 設定泡泡Icon的ResourceId | ※選擇浮動泡泡模式才需設定 |  
+| setDefaultAdvertiseBannerImgResID() | 設定預設的廣告訊息橫幅圖片ResourceId | ※選擇浮動泡泡模式才需設定 |  
+| setDMCardTitleResID() | 設定預設的廣告訊息DM標題ResourceId | ※選擇浮動泡泡模式才需設定 |  
+| setDefaultAdvertiseIconImgResID() | 設定預設的廣告訊息內文圖片ResourceId | ※選擇浮動泡泡模式才需設定 |  
+
+| 掃描頻率欄位名稱 | 說明 | 備註 |
+|-|-|-|
+| foregroundScanPeriod| 掃描一次的時間，時間越長取樣率越平均 | 預設為5秒
+| foregroundBetweenScanPeriod| 掃描與掃描間的間隔時間 | 預設為5秒 |  
+| backgroundScanPeriod| 背景時，掃描一次的時間，時間越長取樣率越平均 | 預設為5秒 |  
+| backgroundBetweenScanPeriod| 背景時，掃描與掃描間的間隔時間 | 預設為5分鐘 |  
+
+| 顯示模式參數名稱 | 說明 | 備註 |
+|-|-|-|
+| MODE_NO_UI | 無介面顯示模式 | 無任何介面顯示，適合客製化或定位訊息情境使用
+| MODE_BUBBLE_CARD| 浮動泡泡模式 | 當訊息觸發時，會有一浮動泡泡顯示於裝置窗口上 |  
+| MODE_NOTIFICATION| 簡訊訊息模式 | 當訊息觸發時，會有類似簡訊訊息顯示於裝置窗口上 |  
+
+* * *
