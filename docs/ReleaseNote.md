@@ -1,3 +1,13 @@
+# Version: 2.18.28 #
+```
+ 1. 新增 [App][Lib] 客製化事件可以收到 sBeaconId
+```
+# Version: 2.18.24 #
+```
+ 1. 新增 [Lib] 可 Stop Beacon SDK 的功能 (目前已知會有Leak問題，待修)
+ 2. 新增 [Lib] 卡片顯示模式的多語系介面
+ 3. 新增 [App][Lib] 可輸入廣告事件標題列預設顏色
+```
 # Version: 2.18.13 #
 ```
  1. 修正 [Lib] CHTLog會在程式停止後崩潰的問題
