@@ -1,11 +1,9 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.2.2</latestVersion>
-    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+    <latestVersion>2.20.03.01</latestVersion>
+    <url>https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/overview</url>
     <releaseNotes>
-- First evolution
-- Second evolution
-- Bug fixes
+ 1. 修正 [Lib] 客製化廣告卡片點選詳細後開啟網頁的問題
     </releaseNotes>
   </update>
 </AppUpdater>
