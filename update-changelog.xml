@@ -1,9 +1,16 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.20.03.01</latestVersion>
+    <latestVersion>2.20.24.01</latestVersion>
     <url>https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/overview</url>
     <releaseNotes>
- 1. 修正 [Lib] 客製化廣告卡片點選詳細後開啟網頁的問題
+ 1. 新增 [Lib] 元件更新提醒功能於 Log 中
+ 2. 修正 [Lib] 客製化廣告卡片點選詳細後會開啟網頁的問題
+ 3. 更新 [Lib] 核心 gradle 到 2.14.1
+ 4. 新增 [Lib] 初始化是否使用外部瀏覽器開啟的參數，請參考 [初始化章節]
+ 5. 修正 [Lib] 內建瀏覽器開啟時無任何顯示狀態
+ 6. 修正 [Lib] 廣告事件點選動作時，會關閉列表但浮動泡泡無法直接拖曳的問題
+ 7. 新增 [Lib] 廣告事件標題文字顏色可調整的參數，請參考 [初始化章節]
+ 8. 修正 [Lib] 廣告事件偶發性的偷圖問題
     </releaseNotes>
   </update>
 </AppUpdater>
