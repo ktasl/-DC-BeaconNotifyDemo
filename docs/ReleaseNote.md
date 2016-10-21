@@ -1,3 +1,9 @@
+# Version: 2.22.21 #
+```
+ 1. 修正 [Lib] Init時，若伺服器發生錯誤，會將結果傳到 InitListener中
+ 2. 修正 [Lib] 多語系，沒有新訊息沒有被翻譯到的問題
+ 3. 更新 [App] com.android.tools.build:gradle 到 2.2.2
+```
 # Version: 2.21.09 #
 ```
  1. 移除 [Lib] 資料庫加密套件
