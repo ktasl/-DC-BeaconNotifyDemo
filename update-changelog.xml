@@ -1,11 +1,19 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.22.21.01</latestVersion>
+    <latestVersion>3.01.20.01</latestVersion>
     <url>https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/overview</url>
     <releaseNotes>
- 1. 修正 [Lib] Init時，若伺服器發生錯誤，會將結果傳到 InitListener中
- 2. 修正 [Lib] 多語系，沒有新訊息沒有被翻譯到的問題
- 3. 更新 [App] com.android.tools.build:gradle 到 2.2.2
+|  更新  | 整個專案  | `build.gradle` build版本到 **2.2.3**        |
+|  更新  | 範例App | `build.gradle` 設定內容                      |
+|  更新  | 範例App | `SplashActivity.java` 內容                 |
+|  修正  |  元件   | 調整初始化SDK中詳細設定所能輸入之參數，詳情請參考 [初始化SDK](http://-dc-beaconnotifydemo.readthedocs.io/2.%20Init/#detail-init) |
+|  修正  |  元件   | 狀態監聽器改為用 *JSON* 格式輸出，並且增加 Event Type，詳情請參考 [狀態監聽器](http://-dc-beaconnotifydemo.readthedocs.io/3.%20Listener/) |
+|  修正  |  元件   | iBeacon感知功能調整暨錯誤修正                       |
+|  修正  |  元件   | 判斷 **License Key** 暨 **事件條件** 更嚴謹了       |
+|  新增  |  元件   | 可清除整個資料庫的中止功能，詳情請參考 [其他 Beacon 元件控制函式](http://-dc-beaconnotifydemo.readthedocs.io/6.%20Controller/) |
+|  修正  |  元件   | 藍牙的啟閉改由 **App** 端執行，SDK將不負責藍牙的任何動作       |
+|  新增  |  元件   | 藍牙監聽器會監聽 **藍牙關閉** 的動作並 **停止SDK服務**       |
+|  新增  |  元件   | 定位事件**優化演算法**，使定位事件更為準確的吐出               |
     </releaseNotes>
   </update>
 </AppUpdater>
