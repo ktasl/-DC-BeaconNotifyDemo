@@ -1,9 +1,9 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.02.07.01</latestVersion>
+    <latestVersion>3.02.09.01</latestVersion>
     <url>https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/overview</url>
     <releaseNotes>
-|  修正  |  元件  | 若下載資料過大，會發生 TransactionTooLargeException 的問題
+|  嚴重  |  修正  |  元件  | 若初始SDK時沒有寫入Token，則會發生Exception的錯誤的問題 |
     </releaseNotes>
   </update>
 </AppUpdater>
