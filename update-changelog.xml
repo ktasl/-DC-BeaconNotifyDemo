@@ -1,9 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.02.09.01</latestVersion>
+    <latestVersion>3.02.18.01</latestVersion>
     <url>https://bitbucket.org/beacondemoteam/as-beaconnotifydemo/overview</url>
     <releaseNotes>
-|  嚴重  |  修正  |  元件  | 若初始SDK時沒有寫入Token，則會發生Exception的錯誤的問題 |
+|  普通  |  修正  |  元件  | 現在支援一把License Key可以包含多個專案 |
+|  普通  |  修正  |  元件  | 調整初始化SDK中詳細設定所能輸入之參數，詳情請參考 [初始化SDK](http://-dc-beaconnotifydemo.readthedocs.io/2.%20Init/#detail-init) |
     </releaseNotes>
   </update>
 </AppUpdater>
